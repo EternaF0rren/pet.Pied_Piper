@@ -1,0 +1,195 @@
+header {
+    background-color: #007765;
+    height: 84px;
+    width: 100%;
+    position: fixed;
+    background-size: cover;
+    background-position: center;
+    padding: auto;
+}
+
+nav {
+    float: center;
+}
+
+nav ul {
+    list-style: none;
+    margin-top: 28px;
+    padding-left: 800px;
+}
+
+nav li {
+    display: inline-block;
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    padding-right: 4px;
+    padding-left: 4px;
+}
+
+.a_img {
+    float: left;   
+    padding-left: 100px;
+}
+
+body {
+    margin: auto;  
+    text-align: center;
+    font-family: "Roboto", "Arial", sans-serif;
+}
+
+h1 {
+    color: white;
+    font-size: 72px;
+    line-height: 84px;
+    text-align: center;
+}
+
+h2 {
+    color: #007765;
+    font-size: 64px;
+    font-weight: 500;
+    line-height: 75px;
+    text-align: center;
+    margin-top: -84px; 
+    padding-top: 84px
+}
+
+.h {
+    margin-bottom: 16px;
+    text-align: center;
+    display: block;
+    max-width: 1219px;
+    box-sizing: border-box;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.photo {
+    size: 168px, 168px;
+}
+
+footer {
+    background-color: #333333;
+    text-align: center;
+    background-size: cover;
+    background-position: center;
+    padding-top: 48px;
+    padding-bottom: 64px;
+}
+
+footer p {
+    color: #ffffff;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    display: block;
+    max-width: 540px;
+    box-sizing: border-box;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.piper_net {
+    background-image: url(img/PiperNet_is_here.png);
+    background-size: cover;
+    background-position: center;
+    padding-top: 158px;
+    padding-bottom: 158px;
+}
+
+.problem {
+    background-color: #eeeeee;
+    background-size: cover;
+    background-position: center;
+    padding-bottom: 42px;
+    margin: auto;
+}
+
+.intro {
+    background-color: #ffffff;
+    background-size: cover;
+    background-position: center;
+    margin-bottom: 80px;
+}
+
+.paragraph {
+    max-width: 1219px;
+    box-sizing: border-box;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 32px;
+    line-height: 38px;
+    text-align: left;
+    padding-bottom: 42px;
+}
+
+.together {
+    background-image: url(img/together.png);
+    background-size: cover;
+    background-position: center;
+    padding-top: 108px;
+    padding-bottom: 168px;
+}
+
+.together div {
+    max-width: 1219px;
+    box-sizing: border-box;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 55px;
+    padding-right: 55px;
+}
+
+.together div p {
+    font-style: italic;
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 56px;
+    text-align: center;
+}
+
+.logo {
+    float: left;
+    margin-right: 48px;
+    margin-bottom: 35px;
+    width: 115px; 
+    height: 115px;
+}
+
+.clear {
+    clear: both;
+}
+
+.team {
+    background-color: #eeeeee;
+    background-size: cover;
+    background-position: center;
+}
+
+table {
+    border-spacing: 100px;
+    margin: auto;
+    text-align: center;
+}
+
+.name {
+    color:  #007765;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 28px;
+    margin-top: 12px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+.it {
+    font-style: italic;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    margin-top: 0px;
+    margin-bottom: 80px;
+}
